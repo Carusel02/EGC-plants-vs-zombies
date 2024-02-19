@@ -1,5 +1,8 @@
 # GFX Framework
 
+## DEMO
+https://github.com/Carusel02/EGC-plants-vs-zombies/assets/40697296/07364efc-289a-4e18-99c3-449482ced21d
+
 ## :sparkles: Introduction
 
 This project is a tiny graphics framework used by the Computer Graphics Department of the Polytechnic University of Bucharest.
